@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "teamA": "Team Alpha",
+        "scoreA": 0,
+        "teamB": "Team Beta",
+        "scoreB": 0
+    },
+    {
+        "id": 2,
+        "teamA": "Team Gamma",
+        "scoreA": 0,
+        "teamB": "Team Delta",
+        "scoreB": 0
+    },
+    {
+        "id": 3,
+        "teamA": "Team Epsilon",
+        "scoreA": 0,
+        "teamB": "Team Zeta",
+        "scoreB": 0
+    },
+    {
+        "id": 4,
+        "teamA": "Team Eta",
+        "scoreA": 0,
+        "teamB": "Team Theta",
+        "scoreB": 0
+    },
+    {
+        "id": 4,
+        "teamA": "Team Iota",
+        "scoreA": 0,
+        "teamB": "Team Kappa",
+        "scoreB": 0
+    }
+]
