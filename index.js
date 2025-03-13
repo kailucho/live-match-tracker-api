@@ -26,8 +26,7 @@ setInterval(() => {
         match.scoreA += Math.round(Math.random());
         match.scoreB += Math.round(Math.random());
     });
-    console.log('matches', matches
-    );
+    
     io.emit('matches', matches);
 }, 5000);
 
@@ -37,7 +36,7 @@ setInterval(() => {
         match.scoreA = 0;
         match.scoreB = 0;
     });
-    console.log('Scores reset', matches);
+    
     io.emit('matches', matches);
 }, 30000);
 
